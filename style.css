@@ -1,0 +1,36 @@
+header{
+    overflow:auto;
+    padding:1em;
+    background-color: #002e5e;
+}
+#Norway{
+    margin-left: 4vw;
+}
+
+body{
+    margin:0;
+    font-family: Roboto;
+    font-size: 1.25em;
+}
+nav{
+    background-color: #ededed;
+    overflow:auto;
+}
+ul{
+    margin:0;
+}
+nav ul{
+    list-style-type: none;
+    margin-left: 2vw;
+}
+nav li{
+    float:left;
+    padding: .7rem 1rem;
+}
+nav li a{
+    text-decoration: none;
+    color: black;
+}
+nav li:hover{
+    background-color: #bbbbbb;
+}
